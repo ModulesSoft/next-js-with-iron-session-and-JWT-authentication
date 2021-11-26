@@ -21,11 +21,11 @@ On the next-iron-session repository (https://github.com/majhoolsoft/next-js-with
 - Logged in status synchronized between browser windows/tabs using **`useUser`** hook and [`swr`](https://swr.vercel.app/) module
 - Layout based on the user's logged-in/out status
 - Session data is signed and encrypted in a cookie
-
-[`next-iron-session-with-JWT-Auth`](https://github.com/vvo/next-iron-session) also supports:
-
 - Express / Connect middlewares
 - Multiple encryption keys (passwords) to allow for seamless updates or just password rotation
+
+[`next-iron-session-with-JWT-Auth`](https://github.com/majhoolsoft/next-js-with-iron-session-and-JWT-authentication) now supports:
+- JWT authentication
 
 ## Preview
 
