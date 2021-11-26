@@ -52,6 +52,7 @@ npm run install
 2. Set up your authentication index keys according to your server response as environment variables (.env).
 
 3. Write your own authentication request in /lib/authenticate.js and refresh access token request in /lib/refreshToken.js
+
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 <!-- 
 4.  
