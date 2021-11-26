@@ -34,9 +34,10 @@ const Header = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/profile-ssr">
+                SSR Deactivated
+                {/* <Link href="/profile-ssr">
                   <a>Profile (Server-side Rendering)</a>
-                </Link>
+                </Link> */}
               </li>
               <li>
                 <a
