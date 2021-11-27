@@ -8,6 +8,7 @@ const Home = () => (
         width="32"
         height="32"
         style={{ marginRight: '.3em', verticalAlign: 'middle' }}
+        alt="Github Logo"
       />
       <a href="https://github.com/next.js/examples/with-next-iron-session-and-JWT-authentication">next-iron-session-with-JWT-authentication</a> example
     </h1>
@@ -47,7 +48,7 @@ const Home = () => (
         used through a token stored in a cookie.
       </li>
       <li>
-        Click logout and try to go to profile again. You'll get redirected to
+        Click logout and try to go to profile again. You&apos;ll get redirected to
         the `/login` route.
       </li>
     </ol>

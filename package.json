@@ -5,16 +5,21 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
-    "jsonwebtoken": "^8.5.1",
-    "next": "10.0.9",
-    "next-iron-session": "^4.2.0",
-    "prop-types": "15.7.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "swr": "^1.0.1"
+    "jsonwebtoken": "latest",
+    "next": "latest",
+    "next-iron-session": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "swr": "latest"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.4"
+  }
 }
