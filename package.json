@@ -1,5 +1,5 @@
 {
-  "name": "with-iron-session",
+  "name": "next.js-with-iron-session-and-jwt-authentication",
   "version": "1.0.0",
   "private": true,
   "scripts": {
