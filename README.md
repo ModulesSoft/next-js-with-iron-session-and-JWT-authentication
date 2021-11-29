@@ -4,8 +4,10 @@
 
 <p align="center"><b>Online demo at <a href="https://next-js-with-iron-session-and-jwt-authentication.vercel.app/">https://next-js-with-iron-session-and-jwt-authentication.vercel.app/</a> 👀</b></p>
 
----
 
+You can use any username & password credentials since sample data will be returned by default.
+
+---
 This example creates an authentication system that uses a **signed and encrypted cookie to store session data with JWT**. It relies on [`next-iron-session`](https://github.com/vvo/next-iron-session),
 [`SWR`](https://github.com/vercel/swr) and [`JsonWebToken`](https://github.com/auth0/node-jsonwebtoken).
 
@@ -35,7 +37,7 @@ Preview the example live on [Vercel](http://vercel.com/):
 
 ## Deploy your own
 
-[`Example with Graphql API is comming soon.`](#)
+[`How to deploy with Graphql API.`](https://medium.com/@majhool.yf/how-to-authenticate-react-next-js-e3ccf3c2860e)
 
 This package comes with 2 sample data files which can be found in /lib.
 
